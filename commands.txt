@@ -1,2 +1,3 @@
 My first entry to this file
 This entry from branch
+Checking the bisect options
