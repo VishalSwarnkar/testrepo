@@ -1,3 +1,4 @@
+Some one else had added in this file
 My first entry to this file
 This entry from branch
 Checking the bisect options
