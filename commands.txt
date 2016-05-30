@@ -1,4 +1,5 @@
 This is me who is adding some more text
+Checking conflict
 Some one else had added in this file
 My first entry to this file
 This entry from branch
